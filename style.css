@@ -1,0 +1,8 @@
+body { background: #bcd7cd; margin: 0; font-family: sans-serif; }
+.analytics-view { padding: 33px; display: flex; }
+.block-sms-0 { color: #1929ce; font-size: 15px; margin-bottom: 5px; }
+.block-logger-1 { color: #94d16; font-size: 17px; margin-bottom: 5px; }
+.block-logger-2 { color: #ce5203; font-size: 13px; margin-bottom: 5px; }
+.block-validator-3 { color: #2f901b; font-size: 20px; margin-bottom: 5px; }
+.block-metrics-4 { color: #1264a0; font-size: 16px; margin-bottom: 5px; }
+.block-router-5 { color: #34fd0b; font-size: 15px; margin-bottom: 5px; }
